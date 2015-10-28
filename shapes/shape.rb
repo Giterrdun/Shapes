@@ -10,3 +10,7 @@ class Shape
 		@size = size
 		@color = color		
 	end
+
+	
+
+end
