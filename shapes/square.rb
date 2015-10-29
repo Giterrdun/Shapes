@@ -1,9 +1,10 @@
 require 'rubygems'
 require 'gosu'
-require_relative 'shape'
+require_relative 'shape.rb'
 
-class Rectangle < Shape
+class Square < Shape
 
+	
 
 	def iniialize
 		super
